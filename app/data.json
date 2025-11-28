@@ -1,0 +1,349 @@
+[
+
+
+
+  {
+    "doors": [
+      {
+        "id": 1,
+        "image": "/img/door1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "/img/door2.jpg"
+      },
+      {
+        "id": 3,
+        "image": "/img/door3.jpg"
+      },
+      {
+        "id": 4,
+        "image": "/img/door4.jpg"
+      },
+      {
+        "id": 5,
+        "image": "/img/door5.jpg"
+      },
+      {
+        "id": 6,
+        "image": "/img/door6.jpg"
+      },
+      {
+        "id": 7,
+        "image": "/img/door7.jpg"
+      },
+      {
+        "id": 8,
+        "image": "/img/door8.jpg"
+      },
+      {
+        "id": 9,
+        "image": "/img/door9.jpg"
+      },
+      {
+        "id": 10,
+        "image": "/img/door10.jpg"
+      },
+      {
+        "id": 11,
+        "image": "/img/door11.jpg"
+      },
+      {
+        "id": 12,
+        "image": "/img/door12.jpg"
+      },
+      {
+        "id": 13,
+        "image": "/img/door13.jpg"
+      },
+      {
+        "id": 14,
+        "image": "/img/door14.jpg"
+      },
+      {
+        "id": 15,
+        "image": "/img/door15.jpg"
+      },
+      {
+        "id": 16,
+        "image": "/img/door16.jpg"
+      },
+      {
+        "id": 17,
+        "image": "/img/door17.jpg"
+      }
+    ]
+  },
+
+
+
+
+  {
+    "moldings": [
+      {
+        "id": 1,
+        "image": "/img/molging1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "/img/molging2.jpg"
+      },
+      {
+        "id": 3,
+        "image": "/img/molging3.jpg"
+      },
+      {
+        "id": 4,
+        "image": "/img/molging4.jpg"
+      },
+      {
+        "id": 5,
+        "image": "/img/molging5.jpg"
+      },
+      {
+        "id": 6,
+        "image": "/img/molging6.jpg"
+      },
+      {
+        "id": 7,
+        "image": "/img/molging7.jpg"
+      },
+      {
+        "id": 8,
+        "image": "/img/molging8.jpg"
+      },
+      {
+        "id": 9,
+        "image": "/img/molging9.jpg"
+      },
+      {
+        "id": 10,
+        "image": "/img/molging10.jpg"
+      },
+      {
+        "id": 11,
+        "image": "/img/molging11.jpg"
+      },
+      {
+        "id": 12,
+        "image": "/img/molging12.jpg"
+      },
+      {
+        "id": 13,
+        "image": "/img/molging13.jpg"
+      },
+      {
+        "id": 14,
+        "image": "/img/molging14.jpg"
+      },
+      {
+        "id": 15,
+        "image": "/img/molging15.jpg"
+      },
+      {
+        "id": 16,
+        "image": "/img/molging16.jpg"
+      },
+      {
+        "id": 17,
+        "image": "/img/molging17.jpg"
+      },
+      {
+        "id": 18,
+        "image": "/img/molging18.jpg"
+      },
+      {
+        "id": 19,
+        "image": "/img/molging19.jpg"
+      },
+      {
+        "id": 20,
+        "image": "/img/molging20.jpg"
+      },
+      {
+        "id": 21,
+        "image": "/img/molging21.jpg"
+      },
+      {
+        "id": 22,
+        "image": "/img/molging22.jpg"
+      },
+      {
+        "id": 23,
+        "image": "/img/molging23.jpg"
+      },
+      {
+        "id": 24,
+        "image": "/img/molging24.jpg"
+      },
+      {
+        "id": 25,
+        "image": "/img/molging25.jpg"
+      },
+      {
+        "id": 26,
+        "image": "/img/molging26.jpg"
+      },
+      {
+        "id": 27,
+        "image": "/img/molging27.jpg"
+      },
+      {
+        "id": 28,
+        "image": "/img/molging28.jpg"
+      },
+      {
+        "id": 29,
+        "image": "/img/molging29.jpg"
+      }
+      
+    ]
+  },
+
+
+
+
+  {
+    "farnichars": [
+      {
+        "id": 1,
+        "image": "/img/farnichar 1.jpg"
+      },
+      {
+        "id": 2,
+        "image": "/img/farnichar 2.jpg"
+      },
+      {
+        "id": 3,
+        "image": "/img/farnichar 3.jpg"
+      },
+      {
+        "id": 4,
+        "image": "/img/farnichar 4.jpg"
+      },
+      {
+        "id": 5,
+        "image": "/img/farnichar 5.jpg"
+      },
+      {
+        "id": 6,
+        "image": "/img/farnichar 6.jpg"
+      },
+      {
+        "id": 7,
+        "image": "/img/farnichar 7.jpg"
+      },
+      {
+        "id": 8,
+        "image": "/img/farnichar 8.jpg"
+      },
+      {
+        "id": 9,
+        "image": "/img/farnichar 9.jpg"
+      },
+      {
+        "id": 10,
+        "image": "/img/farnichar 10.jpg"
+      },
+      {
+        "id": 11,
+        "image": "/img/farnichar 11.jpg"
+      },
+      {
+        "id": 12,
+        "image": "/img/farnichar 12.jpg"
+      },
+      {
+        "id": 13,
+        "image": "/img/farnichar 13.jpg"
+      },
+      {
+        "id": 14,
+        "image": "/img/farnichar 14.jpg"
+      },
+      {
+        "id": 15,
+        "image": "/img/farnichar 15.jpg"
+      },
+      {
+        "id": 16,
+        "image": "/img/farnichar 16.jpg"
+      },
+      {
+        "id": 17,
+        "image": "/img/farnichar 17.jpg"
+      },
+      {
+        "id": 18,
+        "image": "/img/farnichar 18.jpg"
+      },
+      {
+        "id": 19,
+        "image": "/img/farnichar 19.jpg"
+      },
+      {
+        "id": 20,
+        "image": "/img/farnichar 20.jpg"
+      },
+      {
+        "id": 21,
+        "image": "/img/farnichar 21.jpg"
+      },
+      {
+        "id": 22,
+        "image": "/img/farnichar 22.jpg"
+      },
+      {
+        "id": 23,
+        "image": "/img/farnichar 23.jpg"
+      },
+      {
+        "id": 24,
+        "image": "/img/farnichar 24.jpg"
+      },
+      {
+        "id": 25,
+        "image": "/img/farnichar 25.jpg"
+      },
+      {
+        "id": 26,
+        "image": "/img/farnichar 26.jpg"
+      },
+      {
+        "id": 27,
+        "image": "/img/farnichar 27.jpg"
+      },
+      {
+        "id": 28,
+        "image": "/img/farnichar 28.jpg"
+      },
+      {
+        "id": 29,
+        "image": "/img/farnichar 29.jpg"
+      },
+      {
+        "id": 30,
+        "image": "/img/farnichar 30.jpg"
+      },
+      {
+        "id": 31,
+        "image": "/img/farnichar 31.jpg"
+      },
+      {
+        "id": 32,
+        "image": "/img/farnichar 32.jpg"
+      },
+      {
+        "id": 33,
+        "image": "/img/farnichar 33.jpg"
+      },
+      {
+        "id": 34,
+        "image": "/img/farnichar 34.jpg"
+      }
+    ]
+  }
+
+
+
+]
