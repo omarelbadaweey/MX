@@ -36,7 +36,7 @@ export default function Slider() {
     },
     {
       id: 5,
-      image: "/img/molging33.jpg",
+      image: "/img/molging14.jpg",
       title: " Moldings Collection",
       link: "/moldings",
     },
